@@ -8,8 +8,11 @@
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I have a cat 😸 name called Rabbit 🐰
 
+<table width="100%"> 
+ <tr>
+ <td width="50%">
+&nbsp; <br> [![Spotify](https://novatorem-heygourab.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 
-[![Spotify](https://novatorem-heygourab.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 
 ### Github Stats 📊
