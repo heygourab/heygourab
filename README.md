@@ -8,4 +8,11 @@
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I have a cat 😸 name called Rabbit 🐰
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heygourab&count_private=true&show_icons=true&hide=contribs,prs&theme=dark&hide_title=true&layout=compact) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heygourab&show_icons=true&hide=contribs,prs&theme=dark&hide_title=true&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=heygourab)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left">
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=heygourab&count_private=true&show_icons=true&hide=contribs,prs&theme=dark&hide_title=true" align = "center"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs?username=heygourab&&show_icons=true&hide=contribs,prs&theme=dark&hide_title=true&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io" align = "center"/>
+</p>
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heygourab&count_private=true&show_icons=true&hide=contribs,prs&theme=dark&hide_title=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heygourab&show_icons=true&hide=contribs,prs&theme=dark&hide_title=true&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=heygourab&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ -->
