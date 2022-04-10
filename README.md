@@ -9,6 +9,8 @@
 - ⚡ Fun fact: I have a cat 😸 name called Rabbit 🐰
 
 
+[![Spotify](https://novatorem-heygourab.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
 
 ### Github Stats 📊
 <p align="left">
