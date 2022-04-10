@@ -12,6 +12,5 @@
 
 ### Github Stats 📊
 <p align="left">
-<img height="120cm" src="https://github-readme-stats.vercel.app/api?username=heygourab&count_private=true&show_icons=true&hide=contribs,prs&theme=dark&hide_title=true" align = "center"/>
-<img height="120cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heygourab&hide=javascript,html,hack&theme=dark&hide_title=true&layout=compact" align = "center"/>
+<img height="110cm" src="https://github-readme-stats.vercel.app/api?username=heygourab&count_private=true&show_icons=true&hide=contribs,prs&theme=dark&hide_title=true" align = "center"/> <img height="110cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heygourab&hide=javascript,html,hack&theme=dark&hide_title=true&layout=compact" align = "center"/>
 </p>
