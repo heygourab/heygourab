@@ -11,8 +11,8 @@
 <table width="100%"> 
  <tr>
  <td width="50%">
-
 ### Now Playing 🎵
+  
 &nbsp;<br><p align="center">![Spotify](https://novatorem-heygourab.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
   
 ### Github Stats 📊
