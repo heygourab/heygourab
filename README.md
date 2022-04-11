@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Gourab.
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning flutter 🧑‍💻
+- 🌱 I’m currently learning Flutter 🧑‍💻
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
