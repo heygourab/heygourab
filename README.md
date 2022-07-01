@@ -12,7 +12,7 @@
  <tr>
  <td width="50%">
   
-### Now Playing 🎵
+### Now Listening 🎧
 &nbsp;<br><p align="center">![Spotify](https://novatorem-heygourab.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
 ### Github Stats 📊
 <p align="left">
