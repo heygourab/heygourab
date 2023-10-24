@@ -17,5 +17,5 @@
 ### Github Stats 📊
 <p align="left">
 <img height="110cm" src="https://github-readme-stats.vercel.app/api?username=heygourab&count_private=true&show_icons=true&hide=contribs,prs&theme=dark&hide_title=true" align = "center"/> <img height="110cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heygourab&hide=javascript,html,hack&theme=dark&hide_title=true&layout=compact" align = "center"/>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="heygourab" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/heygourab?trk=profile-badge">Gourab Sarkar</a></div>
+
               
