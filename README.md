@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Gourab.
+### Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Gourab.
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Flutter 🧑‍💻
 <!-- - 👯 I’m looking to collaborate on ... -->
