@@ -5,6 +5,7 @@
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: @heygourab on any social media platform <img src="https://emojis.slackmojis.com/emojis/images/1643515233/12510/kirby_dance.gif?1643515233" width="30"/>
+<img src="https://64.media.tumblr.com/6646b852df6d5fab63fd08fa385387c9/tumblr_px8i12Grm51y18y37o1_500.gifv" width="30" />
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I have a cat 😸 name called Rabbit. <img src="https://emojis.slackmojis.com/emojis/images/1643515239/12569/meow_coffeespitting.gif?1643515239" width="30"/>
 
