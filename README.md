@@ -13,7 +13,7 @@
  <td width="50%">
   
 ### Now Listening 🎧
-&nbsp;<br><p align="center">![Spotify](https://novatorem-heygourab.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
+&nbsp;<br><p align="center">![Spotify](https://novatorem-heygourab.vercel.app/api/spotify?background_color=000000&border_color=1c1c1e)
 ### Github Stats 📊
 <p align="left">
 <img height="110cm" src="https://github-readme-stats.vercel.app/api?username=heygourab&count_private=true&show_icons=true&hide=contribs,prs&theme=dark&hide_title=true" align = "center"/> <img height="110cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heygourab&hide=javascript,html,hack&theme=dark&hide_title=true&layout=compact" align = "center"/>
