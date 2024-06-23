@@ -24,23 +24,17 @@ ____
 
 #### 🌐 Frameworks and Libraries
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,remix,react,tailwind" />
-  </a>
 </p>
 
 #### 🗄️ Databases
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb" />
-  </a>
 </p>
 
 #### 🛠️ Tools and Platforms
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,blender,figma,notion&perline=3" />
-  </a>
 </p>
 
 
