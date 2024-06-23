@@ -1,4 +1,4 @@
-### Hi there, I'm Gourab <img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" width="30" />
+# Hi there, I'm Gourab <img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" width="30" />
 
 - I’m a Flutter dev
 - Learning React 
