@@ -1,4 +1,4 @@
-## Hi there, I'm Gourab <img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" width="30" />
+### Hi there, I'm Gourab <img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" width="30" />
 
 - I’m a Flutter dev
 - Learning React 
@@ -6,7 +6,7 @@
 
 ___
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1643514045/41/spotify.png?1643514045" width="30" /> Currently Listening To: </h2>
+### <img src="https://emojis.slackmojis.com/emojis/images/1643514045/41/spotify.png?1643514045" width="30" /> Currently Listening To:
 <p align="left">
   <img src="https://novatorem-heygourab.vercel.app/api/spotify?background_color=000000&border_color=1c1c1e" alt="Spotify" style="border-radius: 20px;" />
 </p>
