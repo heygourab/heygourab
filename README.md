@@ -34,7 +34,7 @@ ____
 
 ##### 🛠️ Tools and Platforms
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,blender,figma,notion&perline=3" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,blender,figma,notion" />
 </p>
 
 
