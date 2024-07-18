@@ -24,7 +24,7 @@ ____
 
 ##### 🌐 Frameworks and Libraries
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=vue,flutter,remix,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,flutter,react,tailwind" />
 </p>
 
 ##### 🗄️ Databases
