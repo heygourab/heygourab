@@ -27,14 +27,14 @@ ____
     <img src="https://skillicons.dev/icons?i=vue,nuxt,flutter,react,tailwind" />
 </p>
 
-##### 🗄️ Databases
+##### 🗄️ Database and ORMS
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=mongodb" />
+    <img src="https://skillicons.dev/icons?i=mongodb,prisma" />
 </p>
 
-##### 🛠️ Tools and Platforms
+##### 🛠️ Tools
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,blender,figma,notion" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,blender,figma" />
 </p>
 
 
