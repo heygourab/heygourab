@@ -1,8 +1,9 @@
 ## Hi there, I'm Gourab <img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" width="30" />
 
-- I’m a Flutter dev
-- Drive into the REM of Innovation 
-- 📫 How to reach me: <a href="https://gourab-sarkar-portfolio.web.app/" target="_top">@heygourab</a> on any social media platform 
+- I’m a Flutter && JS dev
+- Exploring the frontiers of innovation and pushing the boundaries of what's possible.
+- Reach me: <a href="https://gourab-sarkar-portfolio.web.app/" target="_top">@heygourab</a> on any social platform!
+
 
 ___
 
