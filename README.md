@@ -1,4 +1,4 @@
-## Hi there, I'm Gourab <img src="https://emojis.slackmojis.com/emojis/images/1643515334/13528/blob-spiral.gif?1643515334" width="28" />
+## Hi there, I'm Gourab <img src="https://emojis.slackmojis.com/emojis/images/1643514058/149/sonic.gif?1643514058" width="28" />
 - I’m a Flutter && JS dev
 - Exploring the frontiers of innovation and pushing the boundaries of what's possible.
 - Reach me: <a href="https://gourab-sarkar-portfolio.web.app/" target="_top">@heygourab</a> on any social platform!
