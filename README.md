@@ -14,14 +14,14 @@ ____
 ##### 🖥️ Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,py,js,nodejs,md" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,md,dart,py," />
   </a>
 </p>
 
 ##### 🌐 Frameworks and Libraries
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=vue,nuxt,flutter,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=next,vue,nuxt,flutter,react,tailwind" />
 </p>
 
 ##### 🗄️ Database and ORMS
