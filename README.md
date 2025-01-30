@@ -10,7 +10,7 @@ ___
 
 ____
 
-### 🚀 Skills Overview
+### 🚀 Tech Stack
 ##### 🖥️ Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
