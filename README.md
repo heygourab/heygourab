@@ -10,7 +10,7 @@ ___
 
 ____
 
-### 🚀 Tech Stack
+### 🚀 My Tech Stack
 ##### 🖥️ Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
