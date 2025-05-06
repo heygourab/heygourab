@@ -1,6 +1,6 @@
 ## Hi there, I'm Gourab <img src="https://emojis.slackmojis.com/emojis/images/1643514058/149/sonic.gif?1643514058" width="28" />
 - I’m a Flutter && JS dev
-- Reach me: <a href="https://gourab-sarkar-portfolio.web.app/" target="_top">@heygourab</a> on any social platform!
+- Reach me: <a href="https://heygourab.vercel.app/" target="_top">@heygourab</a> on any social platform!
 ___
 ### <img src="https://emojis.slackmojis.com/emojis/images/1643514045/41/spotify.png?1643514045" width="28" /> Currently Listening To:
 <p align="left">
